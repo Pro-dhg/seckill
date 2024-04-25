@@ -1,10 +1,7 @@
 package com.hg.controller;
 
 import com.google.common.util.concurrent.RateLimiter;
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.concurrent.TimeUnit;
 
 /**
